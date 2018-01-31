@@ -10,7 +10,9 @@ In-class assignment 05
 *Penny Board
 	*A Penny board is a type of plastic skateboard, known within the industry as a short cruiser. Cruisers are similar to skateboards but have a different shape and often times composition. 
 
-# History of Longboarding
+# History of Longboarding 
+
+![man longboarding](https://github.com/fkim2/inclass04-chicago/inclass05fkim/media/Man_riding_a_longboard.jpg)  
 
 The life of longboarding started in approximately the 1955s.[1] The idea of longboarding originated from surfers in Hawaii that wanted to take their surfing hobby to land when the waves were too small to surf.[1] Surfers then figured out a way of achieving their goal of bringing surfing to land by customizing their skateboards. They would grab a piece of thick plywood and shape it into a smaller version of a surfboard, then screw the trucks and wheels to the decks and head out to small hills to imitate the same moves they would do if they were out surfing.
 
