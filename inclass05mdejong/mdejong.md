@@ -6,13 +6,13 @@ In-Class Exercise 5: Information Architecture and Markdown
 
 1-31-18
 
-## Rice, Pasta, and Bread: Commonalities
+## Rice, Bread, and Pasta
 
-What could rice, pasta, and bread possibly have in common? Is it, perhaps, that they are all delicious? That nutritionalists often tell you to eat less of them? That they're white-ish and squishy? All of those things are, of course, true. But that is not all. Though rice, pasta, and bread are all have their own histories, preparations, and nutritional values, they share a critical common function in many different cultures throughout the world: that of staple starches. This means that they make up a large portion of people's diets, providing a plentiful supply of carbohydrates and calories. With this common function in mind, let us look into how these staple starches came to be, how they're made, and what they can do for our bodies, starting with the oldest of them all. 
+What could rice, bread, and pasta possibly have in common? Is it, perhaps, that they are all delicious? That nutritionalists often tell you to eat less of them? That they're white-ish and squishy? All of those things are, of course, true. But that is not all. Though rice, bread, and pasta are all have their own histories, preparations, and nutritional values, they share a critical common function in many different cultures throughout the world: that of staple starches. This means that they make up a large portion of people's diets, providing a plentiful supply of carbohydrates and calories. With this common function in mind, let us look into how these staple starches came to be, how they're made, and what they can do for our bodies, starting with the most ancient. 
 
 ## Rice
 
-//Picture of rice
+![a picture of rice](media/rice.jpg)
 
 ### History
 
@@ -50,9 +50,52 @@ A detailed analysis of nutrient content of rice suggests that the nutrition valu
 
 Rice is the staple food of over half the world's population. It is the predominant dietary energy source for 17 countries in Asia and the Pacific, 9 countries in North and South America and 8 countries in Africa. Rice provides 20% of the world’s dietary energy supply, while wheat supplies 19% and maize (corn) 5%.
 
+## Bread
+
+![a picture of bread](media/bread.jpg)
+
+### History
+
+Bread is one of the oldest prepared foods. Evidence from 30,000 years ago in Europe revealed starch residue on rocks used for pounding plants. It is possible that during this time, starch extract from the roots of plants, such as cattails and ferns, was spread on a flat rock, placed over a fire and cooked into a primitive form of flatbread. Around 10,000 BC, with the dawn of the Neolithic age and the spread of agriculture, grains became the mainstay of making bread. Yeast spores are ubiquitous, including on the surface of cereal grains, so any dough left to rest leavens naturally.
+
+There were multiple sources of leavening available for early bread. Airborne yeasts could be harnessed by leaving uncooked dough exposed to air for some time before cooking. Pliny the Elder reported that the Gauls and Iberians used the foam skimmed from beer called barm to produce "a lighter kind of bread than other peoples" such as barm cake. Parts of the ancient world that drank wine instead of beer used a paste composed of grape juice and flour that was allowed to begin fermenting, or wheat bran steeped in wine, as a source for yeast. The most common source of leavening was to retain a piece of dough from the previous day to use as a form of sourdough starter, as Pliny also reported.
+
+In 1961 the Chorleywood bread process was developed, which used the intense mechanical working of dough to dramatically reduce the fermentation period and the time taken to produce a loaf. The process, whose high-energy mixing allows for the use of lower protein grain, is now widely used around the world in large factories. As a result, bread can be produced very quickly and at low costs to the manufacturer and the consumer. However, there has been some criticism of the effect on nutritional value.
+
+### Preparation
+
+Doughs are usually baked, but in some cuisines breads are steamed (e.g., mantou), fried (e.g., puri), or baked on an unoiled frying pan (e.g., tortillas). It may be leavened or unleavened (e.g. matzo). Salt, fat and leavening agents such as yeast and baking soda are common ingredients, though bread may contain other ingredients, such as milk, egg, sugar, spice, fruit such as raisins, vegetables such as onion, nuts such as walnut or seeds such as poppy.
+
+Professional bread recipes are stated using the baker's percentage notation. The amount of flour is denoted to be 100%, and the other ingredients are expressed as a percentage of that amount by weight. Measurement by weight is more accurate and consistent than measurement by volume, particularly for dry ingredients. The proportion of water to flour is the most important measurement in a bread recipe, as it affects texture and crumb the most. Hard wheat flours absorb about 62% water, while softer wheat flours absorb about 56%. Common table breads made from these doughs result in a finely textured, light bread. Most artisan bread formulas contain anywhere from 60 to 75% water. In yeast breads, the higher water percentages result in more CO2 bubbles and a coarser bread crumb. One pound (450 g) of flour yields a standard loaf of bread or two French loaves.
+
+Calcium propionate is commonly added by commercial bakeries to retard the growth of molds.
+
+Flour is grain ground to a powdery consistency. Flour provides the primary structure, starch and protein to the final baked bread. The protein content of the flour is the best indicator of the quality of the bread dough and the finished bread. While bread can be made from all-purpose wheat flour, a specialty bread flour, containing more protein (12–14%), is recommended for high-quality bread. If one uses a flour with a lower protein content (9–11%) to produce bread, a shorter mixing time is required to develop gluten strength properly. An extended mixing time leads to oxidization of the dough, which gives the finished product a whiter crumb, instead of the cream color preferred by most artisan bakers.
+
+Wheat flour, in addition to its starch, contains three water-soluble protein groups (albumin, globulin, and proteoses) and two water-insoluble protein groups (glutenin and gliadin). When flour is mixed with water, the water-soluble proteins dissolve, leaving the glutenin and gliadin to form the structure of the resulting bread. When relatively dry dough is worked by kneading, or wet dough is allowed to rise for a long time (see no-knead bread), the glutenin forms strands of long, thin, chainlike molecules, while the shorter gliadin forms bridges between the strands of glutenin. The resulting networks of strands produced by these two proteins are known as gluten. Gluten development improves if the dough is allowed to autolyse.
+
+Water, or some other liquid, is used to form the flour into a paste or dough. The weight of liquid required varies between recipes, but a ratio of 3 parts liquid to 5 parts flour is common for yeast breads. Recipes that use steam as the primary leavening method may have a liquid content in excess of 1 part liquid to 1 part flour. Instead of water, recipes may use liquids such as milk or other dairy products (including buttermilk or yoghurt), fruit juice, or eggs. These contribute additional sweeteners, fats, or leavening components, as well as water.
+
+Fats, such as butter, vegetable oils, lard, or that contained in eggs, affect the development of gluten in breads by coating and lubricating the individual strands of protein. They also help to hold the structure together. If too much fat is included in a bread dough, the lubrication effect causes the protein structures to divide. A fat content of approximately 3% by weight is the concentration that produces the greatest leavening action. In addition to their effects on leavening, fats also serve to tenderize breads and preserve freshness.
+
+Bread improvers and dough conditioners are often used in producing commercial breads to reduce the time needed for rising and to improve texture and volume. The substances used may be oxidising agents to strengthen the dough or reducing agents to develop gluten and reduce mixing time, emulsifiers to strengthen the dough or to provide other properties such as making slicing easier, or enzymes to increase gas production.
+
+Salt is often added to enhance flavor and restrict yeast activity. It also affects the crumb and the overall texture by stabilizing and strengthening the gluten. Some artisan bakers forego early addition of salt to the dough, whether wholemeal or refined, and wait until after a 20-minute rest to allow the dough to autolyse.
+
+### Nutritional Value
+
+Bread supplies a significant portion of the nutrients required for growth, maintenance of health and well-being. It is an excellent source of proteins, vitamins, minerals, fibre and complex carbohydrates. It is also low in fat and cholesterol. Bread is quite bulky so it takes longer to digest and is therefore more satisfying and less fattening than the fats, sugars and alcohols commonly consumed in excess. All breads are nutritious, and the differences between them in nutritional value are not significant if we eat a balanced diet.
+
+White bread has approximately the same carbohydrate and protein content as wholemeal bread, contains soluble and insoluble dietary fibre, and a good percentage of the whole wheat nutrients. It is made from unbleached flour made from the inner 78% of the wheat grain. If you prefer white bread to wholegrain breads, you can get your extra fibre from other wholegrain foods such as breakfast cereals, wholemeal crackers and biscuits.
+
+In New Zealand wholemeal bread is made from at least 90% wholemeal flour. White flour may be added to wholemeal flour to make wheatmeal products.
+It is often added to improve the baking quality of breads made with wholemeal flour because of its gluten protein content.
+
+Wheatmeal breads are not subject to food regulations and so the quantity of wholemeal flour used may vary. Nutritional comparisons are therefore diffcult to make.
+
 ## Pasta
 
-//picture of noodles
+![a picture of noodles](media/noodles.jpg)
 
 ### History
 
@@ -78,15 +121,26 @@ Pasta manufacturing machines were made since the 1600s across the coast of Sanre
 
 ### Preparation
 
+Ingredients to make pasta dough include semolina flour, egg, salt and water. Flour is first mounded on a flat surface and then a well in the pile of flour is created. Egg is then poured into the well and a fork is used to mix the egg and flour. There are a variety of ways to shape the sheets of pasta depending on the type required. The most popular types include penne, spaghetti, and macaroni.
+
+Kitchen pasta machines, also called pasta makers, are popular with cooks who make large amounts of fresh pasta. The cook feeds sheets of pasta dough into the machine by hand, and by turning a hand crank, extrudes the pasta through a machine 'comb' that shapes the pasta noodles as they are extruded.
+
+The storage of pasta depends on how far along it is processed. Uncooked pasta is kept dry and can sit in the cupboard for a year if airtight and stored in a cool, dry area. Cooked pasta is stored in the refrigerator for a maximum of five days in an airtight container. Adding a couple teaspoons of oil helps keep the food from sticking to itself and the container. If the cooked pasta is not used in the five days it may be frozen for up to two or three months. The pasta will start to dry after a period of time, but it varies with the type of pasta. Should the pasta be dried completely, it can be placed back in the cupboard.
+
+Semolina flour consists of a protein matrix with entrapped starch granules. Upon the addition of water, during mixing, intermolecular forces allow the protein to form a more ordered structure in preparation for cooking.
+
+Durum wheat is ground into semolina flour which is sorted by optical scanners and cleaned. Pipes allow the flour to move to a mixing machine where it is mixed with warm water by rotating blades. When the mixture is of a lumpy consistency the mixture is pressed into sheets or extruded. Varieties of pasta such as spaghetti and linguine are cut by rotating blades while pasta such as penne and rotini are extruded. The size and shape of the dies in the extruder through which the pasta is pushed determine the shape that results. The pasta is then dried at a high temperature.
+
+The ingredients to make dried pasta usually include water and semolina flour; egg for colour and richness (in some types of pasta), and possibly vegetable juice (such as spinach, beet, tomato, carrot), herbs or spices for colour and flavour. After mixing semolina flour with warm water the dough is kneaded mechanically until it becomes firm and dry. If pasta is to be flavoured, eggs, vegetable juices, and herbs are added at this stage. The dough is then passed into the laminator to be flattened into sheets, then compressed by a vacuum mixer-machine to clear out air bubbles and excess water from the dough until the moisture content is reduced to 12%. Next, the dough is processed in a steamer to kill any bacteria it may contain.
+
+The dough is then ready to be shaped into different types of pasta. Depending on the type of pasta to be made, the dough can either be cut or extruded through dies. The pasta is set in a drying tank under specific conditions of heat, moisture, and time depending on the type of pasta. The dried pasta is then packaged: Fresh pasta is sealed in a clear, airtight plastic container with a mixture of carbon dioxide and nitrogen that inhibits microbial growth and prolongs the product's shelf life; dried pastas are sealed in clear plastic or cardboard packages.
+
 ### Nutritional Value
 
-## Bread
+When cooked, plain pasta is composed of 62% water, 31% carbohydrates (26% starch), 6% protein, and 1% fat. A 100 gram portion of non-enriched cooked pasta provides 160 Calories and a moderate level of manganese (15% of the Daily Value), but few other micronutrients.
 
-//picture of bread
-
-### History
-
-### Preparation
-
-### Nutritional Value
-
+_sources:_
+- https://en.wikipedia.org/wiki/Rice
+- https://en.wikipedia.org/wiki/Bread
+- http://www.bakeinfo.co.nz/Facts/Nutrition/Nutritional-Properties-of-Bread
+- https://en.wikipedia.org/wiki/Pasta
