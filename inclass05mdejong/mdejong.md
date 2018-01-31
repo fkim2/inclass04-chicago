@@ -95,7 +95,7 @@ Wheatmeal breads are not subject to food regulations and so the quantity of whol
 
 ## Pasta
 
-![a picture of noodles](media/noodles.jpg)
+![a picture of pasta](media/pasta.jpg)
 
 ### History
 
