@@ -3,12 +3,12 @@ In-class assignment 05
 1/31/18  
 
 # Chosen Topics and Their Commonalities 
-*Longboard
-	*A type of sports equipment similar to, but not the same as, a skateboard. It often is longer than a skateboard. It tends to be faster because of wheel size, construction materials and more precise hardware. Longboards are commonly used for cruising and downhill racing, known as longboarding, rather than skateboarding.
-*Skateboard
-	*A skateboard is a type of sports equipment used primarily for the activity of skateboarding. It usually consists of a specially designed maplewood board combined with a polyurethane coating used for making smoother slides and stronger durability. Most skateboards are made with 7 plies of this wood.A skateboard is moved by pushing with one foot while the other remains on the board, or by pumping one's legs in structures such as a bowl or half pipe. 
-*Penny Board
-	*A Penny board is a type of plastic skateboard, known within the industry as a short cruiser. Cruisers are similar to skateboards but have a different shape and often times composition. 
+* Longboard
+	* A type of sports equipment similar to, but not the same as, a skateboard. It often is longer than a skateboard. It tends to be faster because of wheel size, construction materials and more precise hardware. Longboards are commonly used for cruising and downhill racing, known as longboarding, rather than skateboarding.
+* Skateboard
+	* A skateboard is a type of sports equipment used primarily for the activity of skateboarding. It usually consists of a specially designed maplewood board combined with a polyurethane coating used for making smoother slides and stronger durability. Most skateboards are made with 7 plies of this wood.A skateboard is moved by pushing with one foot while the other remains on the board, or by pumping one's legs in structures such as a bowl or half pipe. 
+* Penny Board
+	* A Penny board is a type of plastic skateboard, known within the industry as a short cruiser. Cruisers are similar to skateboards but have a different shape and often times composition. 
 
 # History of Longboarding 
 
